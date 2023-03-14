@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vamshi</string>
+    <string name="facebook_app_id">1612989372478260</string>
+    <string name="fb_login_protocol_scheme">fb1612989372478260</string>
+    <string name="facebook_client_token">35d35fa912ae5f4af73e87711f6e3716</string>
+</resources>
